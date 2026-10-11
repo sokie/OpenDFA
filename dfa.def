@@ -1,0 +1,4 @@
+LIBRARY DFA
+EXPORTS
+    e=_dfa_e@24 @1
+    u=_dfa_u@24 @2
